@@ -16,6 +16,14 @@ function newFeatureAdd(){
     
 }
 
+
+function newFeatureAdd(){
+    console.log('this is a new feature of b');
+    
+}
+
+
+
 console.log("New Feature added for a new branch");
 console.log("New Feature added again");
 console.log("latest feature is added");
