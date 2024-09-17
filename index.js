@@ -11,5 +11,26 @@ function isAbove18(){
     return (age>18);
 }
 
+function newFeatureAdd(){
+    console.log('this is a new feat');
+    
+}
+
+
+function newFeatureAdd(){
+    console.log('this is a new feature of b');
+    
+}
+
+
+
+console.log("New Feature added for a new branch");
+console.log("New Feature added again");
+console.log("latest feature is added");
+
+
+
+
+
 
 console.log(isAbove18());
